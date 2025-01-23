@@ -1,8 +1,8 @@
 streamlit
 pillow
-torch
-torchvision
+torch==1.12.1+cu118
+torchvision==0.13.1+cu118
 captum
 matplotlib
 numpy
---extra-index-url https://download.pytorch.org/whl/cu118  # Untuk CUDA support jika diperlukan
+--extra-index-url https://download.pytorch.org/whl/cu118
