@@ -46,6 +46,11 @@ Menjelaskan keputusan model dengan heatmap yang menunjukkan fitur gambar yang re
 
 # Referensi
 [1] S. Solanki, “PyTorch: Image Classification using Pre-Trained Models.” Accessed: Jan. 23, 2025. [Online]. Available: https://coderzcolumn.com/tutorials/artificial-intelligence/pytorch-image-classification-using-pre-trained-models
+
 [2] S. Solanki, “Captum: Interpret Predictions Of PyTorch Image Classification Networks.” Accessed: Jan. 23, 2025. [Online]. Available: https://coderzcolumn.com/tutorials/artificial-intelligence/captum-for-pytorch-image-classification-networks
+
 [3] Petru Potrimba, “What is ResNet-50?,” Robotflow. Accessed: Jan. 24, 2025. [Online]. Available: https://blog.roboflow.com/what-is-resnet-50/
+
 [4] M. Ibrahim, “The Basics of ResNet50 | ml-articles – Weights & Biases.” Accessed: Jan. 24, 2025. [Online]. Available: https://wandb.ai/mostafaibrahim
+
+[5] S. Solanki, “(14) Build an AI Image Classification App using Streamlit & PyTorch 📊 | Sunny Solanki 👨‍💻 - YouTube.” Accessed: Jan. 24, 2025. [Online]. Available: https://www.youtube.com/watch?v=McJPXgWmSDY
