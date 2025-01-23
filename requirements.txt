@@ -1,9 +1,7 @@
-matplotlib
-numpy
-streamlit
-torch
-torchvision
-captum
-torchvision.models
-captum.attr
-Pillow
+streamlit==1.25.0
+pillow==10.0.0
+torch==2.0.1
+torchvision==0.15.2
+captum==0.6.0
+matplotlib==3.7.1
+numpy==1.24.4
