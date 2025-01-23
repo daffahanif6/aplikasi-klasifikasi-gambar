@@ -1,3 +1,6 @@
-matplotlib == 3.3.4
-numpy == 1.20.1
-streamlit == 0.79.0
+matplotlib
+numpy
+streamlit
+torch
+torchvision
+captum
