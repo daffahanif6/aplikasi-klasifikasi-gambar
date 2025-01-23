@@ -1,7 +1,11 @@
 import streamlit as st
-from PIL import Image
 import numpy as np
 import matplotlib.pyplot as plt
+import torch
+import torchvision
+import captum
+import PIL
+from PIL import Image
 
 from torchvision.models import resnet50, ResNet50_Weights
 from captum.attr import IntegratedGradients

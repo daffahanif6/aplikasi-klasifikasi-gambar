@@ -4,3 +4,6 @@ streamlit
 torch
 torchvision
 captum
+torchvision.models
+captum.attr
+Pillow
