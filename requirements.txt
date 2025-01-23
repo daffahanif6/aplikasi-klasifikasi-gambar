@@ -1,7 +1,7 @@
 streamlit
 pillow
-torch==1.12.1+cu118
-torchvision==0.13.1+cu118
+torch
+torchvision
 captum
 matplotlib
 numpy
