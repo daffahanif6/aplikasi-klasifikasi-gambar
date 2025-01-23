@@ -1,3 +1,9 @@
+Nama : Daffa Hanif Durachman
+NIM : 21.11.4470
+Mata Kuliah : Kecerdasan Buatan Lanjut
+Kelas : 22S1IF-Kecerda5(ST164)
+___
+
 Fitur Utama
 * Klasifikasi Gambar:
 Model ResNet-50 memproses gambar dan menghasilkan prediksi dari 1.000 kategori objek (ImageNet).
