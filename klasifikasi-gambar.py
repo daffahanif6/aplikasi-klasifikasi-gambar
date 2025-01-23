@@ -7,7 +7,9 @@ import captum
 import PIL
 from PIL import Image
 
+from torchvision import models, transforms
 from torchvision.models import resnet50, ResNet50_Weights
+from captum import attr
 from captum.attr import IntegratedGradients
 from captum.attr import visualization as viz
 
